@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+h1 {
+    font-family: "Shadows Into Light Two", cursive;
+    font-size: 27px;
+    letter-spacing: 2px;
+    margin-left: 15%;
+}
