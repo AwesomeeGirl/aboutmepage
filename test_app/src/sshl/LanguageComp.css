@@ -1,0 +1,15 @@
+h3 {
+    font-family: "Shadows Into Light Two", cursive;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.languageHr {
+    border-top: 15px dashed;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    margin-top: -15px;
+}

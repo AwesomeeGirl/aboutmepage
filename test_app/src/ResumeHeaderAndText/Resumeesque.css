@@ -1,0 +1,31 @@
+.overarching {
+    width: 70%;
+    background-color: palevioletred;
+    margin-top: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: -5px;
+    padding-bottom: 5px;
+}
+
+.bottom {
+    height: 30px;
+    margin-bottom: 0px;
+}
+
+.resumeheader {
+    padding-top: 15px;
+    color: rgb(41, 8, 75);
+    font-size: 30px;
+}
+
+.resumedescription {
+    margin-top: 0px;
+    color: aliceblue;
+    font-size: large;
+    font-family: "Shadows Into Light Two", cursive;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    line-height: 15px;
+}
+

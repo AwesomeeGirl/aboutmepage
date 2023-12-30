@@ -1,0 +1,10 @@
+.skillName {
+    height: 25px;
+    background-color: aquamarine;
+    margin-left: 16px;
+    border-radius: 10px;
+}
+
+.skillVerb {
+    margin-left: 8px;
+}

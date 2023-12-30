@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+.skills {
+    width: 50%;
+    background-color: rgb(250, 215, 247);
+    align-items: stretch;
+    vertical-align: top;
+}
+
+h2 {
+    font-family: "Shadows Into Light Two", cursive;
+    letter-spacing: 1.5px;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+hr {
+    width: 80%;
+    margin-left: 20px;
+    align-items: left;
+    color: black;
+    margin-top: 0px;
+    border-style: dashed;
+    height: 4px;
+}
+
+.margins {
+    margin-top: -15px;
+}

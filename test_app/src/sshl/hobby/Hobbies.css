@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+.hobbyImg {
+    width: 50%;
+}
+
+figcaption {
+    font-family: "Shadows Into Light Two", cursive;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+.hobbyWrapper {
+    align-items: center;
+}
+
+.hobbyWrapperTable {
+    margin-left: 20px;
+    margin-right: auto;
+    border: none;
+    width: 80%;
+}
+
+.hobbyNameCap {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.hobbydescription {
+    font-size: small;
+}

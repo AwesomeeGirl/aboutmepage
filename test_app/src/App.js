@@ -1,13 +1,15 @@
 import logo from './logo.svg';
 import AboutMe from './AboutMe';
 import PhotoAndText from './PhotoAndText';
+import './App.css'
+
 
 function App() {
   return (
-    <div className="App">
-      <AboutMe />
-      <PhotoAndText />
-    </div>
+      <div className="App">
+        <AboutMe />
+        <PhotoAndText />
+      </div>
   );
 }
 

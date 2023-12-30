@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+.topMargin {
+    margin: 0px;
+    height: 5px;
+}
+
 h1 {
     font-family: "Shadows Into Light Two", cursive;
     font-size: 27px;
