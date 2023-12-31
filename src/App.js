@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import AboutMe from './AboutMe';
 import PhotoAndText from './PhotoAndText';
 import './App.css'

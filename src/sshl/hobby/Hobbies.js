@@ -4,7 +4,7 @@ import './Hobbies.css';
 function Hobbies(props) {
     return (
         <figure>
-            <img src={props.imageSrc} className='hobbyImg'/>
+            <img src={props.imageSrc} className='hobbyImg' alt={`${props.hobbyName} graphic`}/>
             <figcaption className='hobbyNameCap'>
                 {props.hobbyName}
             </figcaption>
