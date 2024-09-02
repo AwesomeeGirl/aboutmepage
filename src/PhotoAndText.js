@@ -14,9 +14,9 @@ function PhotoAndText() {
                     </td>
                     <td className="blurb">
                         <p className="aboutMeBlurb">
-                            Hi! My name is Saumya Agarwal. I'm currently a second year student pursuing a bachelor's
+                            Hi! My name is Saumya Agarwal. I'm currently a third year student pursuing a bachelor's
                             degree in Computer Engineering at Georgia Institute of Technology. I am pursuing an 
-                            intership currently.
+                            intership currently for Summer 2025.
                         </p>
                     </td>
                 </tr>

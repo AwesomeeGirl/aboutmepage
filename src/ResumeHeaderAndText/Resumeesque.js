@@ -5,6 +5,13 @@ import ResumeHeader from "./ResumeHeader";
 
 function Resumeesque() {
     const project = [
+        {title: "Firmware Engineer Intern | Eaton",
+            description: `- Integrating Matter within a smart light switch using C/C++ in Simplicity Studio 5 \n`},
+        {title: "Digital Design R&D Intern | Sandia National Laboratories",
+            description: `- Designed an IEEE-754 Standard Single Precision Floating Point Unit in SystemVerilog \n
+- Simulated Constrained Random Testing test cases in QuestaSim \n
+- Tested floating point unit on an FPGA board, sending hardware bitstream through Vivado \n
+- Observed a 600 times speedup compared to software floating point arithmetic \n`},
         {title: "Undergraduate Research | Georgia Institute of Technology",
         description: `- Working with Verilog to code a hardware compiler to ensure malware cannot attack a compiler \n
 - Implementing front and back end of the compiler in HDL \n
@@ -28,6 +35,8 @@ activities, calendar, and student schedule using Swift.\n
                 <ResumeHeader title={project[1].title} description={project[1].description}/>
                 <ResumeHeader title={project[2].title} description={project[2].description}/>
                 <ResumeHeader title={project[3].title} description={project[3].description}/>
+                <ResumeHeader title={project[3].title} description={project[4].description}/>
+                <ResumeHeader title={project[3].title} description={project[5].description}/>
             </div>
             <div className="bottom"></div>
         </div>

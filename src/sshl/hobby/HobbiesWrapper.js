@@ -21,7 +21,7 @@ function HobbiesWrapper() {
                     <Hobbies imageSrc={Guitar} hobbyName={"Guitar"} hobbyCaption="The moment I get the melody"/>
                 </td>
                 <td className="hobbyWrapper">
-                <Hobbies imageSrc={Swimmer} hobbyName={"Swimmer"} hobbyCaption="I've never had water go up my nose"/>
+                <Hobbies imageSrc={Swimmer} hobbyName={"Swimmer"} hobbyCaption="I've drank too much pool water"/>
                 </td>
             </tr>
         </table>
