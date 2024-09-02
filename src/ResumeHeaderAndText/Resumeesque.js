@@ -35,8 +35,8 @@ activities, calendar, and student schedule using Swift.\n
                 <ResumeHeader title={project[1].title} description={project[1].description}/>
                 <ResumeHeader title={project[2].title} description={project[2].description}/>
                 <ResumeHeader title={project[3].title} description={project[3].description}/>
-                <ResumeHeader title={project[3].title} description={project[4].description}/>
-                <ResumeHeader title={project[3].title} description={project[5].description}/>
+                <ResumeHeader title={project[4].title} description={project[4].description}/>
+                <ResumeHeader title={project[5].title} description={project[5].description}/>
             </div>
             <div className="bottom"></div>
         </div>
